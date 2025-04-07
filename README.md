@@ -18,6 +18,7 @@ Data Cleaning
 Data Processing Plan?
 
 ## Model Development 
+This project experiments with developing classification models using supervised machine learning algorithms, such as Random Forest CLassifier, Decision Tree, and Gradient Descent. To evaluate and compare the model performance, we use measures such as model accuracy, precision, recall, F-1 score, and confusion matrix
 
 ## Analysis and Testing 
 

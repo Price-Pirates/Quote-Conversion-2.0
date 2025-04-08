@@ -16,8 +16,9 @@ The Quote Status was divided into three types:
 1. Won Quotes: Quotes that were successfully converted into sales.
 2. Revised Quotes: Quotes that were initially lost but were revised and turned into sales.
 3. Lost Quotes: Quotes that were not turned into sales.
-The 
-Sales Dataset included various features describing the quotes that were turned into sales. It included features such as: BranchName,	Ship2City,	Ship2State,	OrderNumber,	InvoiceNumber,	LineNumber,	OrderDate,	SalesDate,	SalesPersonID,	SalesPersonName,	ProductID,	ProductGroupID,	CustomerID,	CustomerName,	ExtPrice,	ExtCost,	SalesQty,	UnitPrice,	UnitCost,	UOM	UnitSize
+
+
+The Sales Dataset included various features describing the quotes that were turned into sales. It included features such as: BranchName,	Ship2City,	Ship2State,	OrderNumber,	InvoiceNumber,	LineNumber,	OrderDate,	SalesDate,	SalesPersonID,	SalesPersonName,	ProductID,	ProductGroupID,	CustomerID,	CustomerName,	ExtPrice,	ExtCost,	SalesQty,	UnitPrice,	UnitCost,	UOM	UnitSize
 
 ## Model Development 
 This project experiments with developing classification models using supervised machine learning algorithms, such as Random Forest CLassifier, Decision Tree, and Gradient Descent. 

@@ -4,25 +4,26 @@
 
 The goal of our project is to continue on the prediction of quote conversion probability into a sale for Intuilize customers, assisting in understanding the client needs and leverage Machine Learning algorithm to optimize revenue generation. 
 
-The project is sponsored by Intuilize and is developed in collaboration with a team of students within Computer Science program at Minnesota State University, Mankato. 
+The project is sponsored by Intuilize and is developed in collaboration with a team of students within the Computer Science program at Minnesota State University, Mankato. 
 
 ## The Data 
 
-Quote Data and Sales Data were provided to the team 
+Quote DataSet and Sales DataSet were provided to the team 
 
-The Dataset description Here: Through an analysis of the data the team was able to find ...
+Quotes Data included various features describing the quotes, such as: QuoteID, QuoteVersion, QuoteDate, ExpirationDate,	SalesPersonID,	SalesPersonName, CustomerID,	CustomerName,	BranchName,	Ship2City,	Ship2State,	ProductID,	ProductGroupID,	QuoteQty,	UnitPrice,	UOM,	UnitSize,	QuoteStatus,	ConvertedToOrderNumber,	ConversionDate
 
-## Methodology 
-
-Data Cleaning 
-Data Processing Plan?
+The Quote Status was divided into three types:
+1. Won Quotes: Quotes that were successfully converted into sales.
+2. Revised Quotes: Quotes that were initially lost but were revised and turned into sales.
+3. Lost Quotes: Quotes that were not turned into sales.
+The 
+Sales Dataset included various features describing the quotes that were turned into sales. It included features such as: BranchName,	Ship2City,	Ship2State,	OrderNumber,	InvoiceNumber,	LineNumber,	OrderDate,	SalesDate,	SalesPersonID,	SalesPersonName,	ProductID,	ProductGroupID,	CustomerID,	CustomerName,	ExtPrice,	ExtCost,	SalesQty,	UnitPrice,	UnitCost,	UOM	UnitSize
 
 ## Model Development 
-This project experiments with developing classification models using supervised machine learning algorithms, such as Random Forest CLassifier, Decision Tree, and Gradient Descent. To evaluate and compare the model performance, we use measures such as model accuracy, precision, recall, F-1 score, and confusion matrix
+This project experiments with developing classification models using supervised machine learning algorithms, such as Random Forest CLassifier, Decision Tree, and Gradient Descent. 
 
-## Analysis and Testing 
-
-## Results 
+## Analysis and Testing
+To evaluate and compare the model performance, we use measures such as model accuracy, precision, recall, F-1 score, and confusion matrix.
 
 ## Further Instructions 
 

@@ -39,6 +39,7 @@ Roshit Niraula || ML || Minnesota State University, Mankato.
 ## Links
 
 Previous Team Github Repo: https://github.com/pradhansh/QuoteConversionRatePredictor
+
 Previous Team OneDrive: https://m365.cloud.microsoft/onedrive/?auth=2
 
 CurrentTeam OneDrive: https://m365.cloud.microsoft/onedrive/?auth=2

@@ -35,3 +35,10 @@ Shreya Pradhan || Team Lead || Minnesota State University, Mankato.
 Nathan Haile || Data || Minnesota State University, Mankato. 
 Ruth Taye || ML || Minnesota State University, Mankato. 
 Roshit Niraula || ML || Minnesota State University, Mankato. 
+
+
+## Previous Team Github Repo: https://github.com/pradhansh/QuoteConversionRatePredictor
+## Previous Team OneDrive: https://m365.cloud.microsoft/onedrive/?auth=2
+
+## CurrentTeam OneDrive: https://m365.cloud.microsoft/onedrive/?auth=2
+

@@ -28,7 +28,7 @@ To evaluate and compare the model performance, we use measures such as model acc
 
 ## Further Instructions 
 
-This section shall serve as a mini Handover.
+Inside each folder you will find a breif ReadMe file that explain each files.
 
 ## Collaborators 
 Shreya Pradhan || Team Lead || Minnesota State University, Mankato. 
@@ -40,7 +40,7 @@ Roshit Niraula || ML || Minnesota State University, Mankato.
 
 Previous Team Github Repo: https://github.com/pradhansh/QuoteConversionRatePredictor
 
-Previous Team OneDrive: https://m365.cloud.microsoft/onedrive/?auth=2
+Previous Team OneDrive: https://mnscu-my.sharepoint.com/:f:/r/personal/yo3345ao_go_minnstate_edu/Documents/Quote%20Conversion?csf=1&web=1&e=pTXBA5
 
-CurrentTeam OneDrive: https://m365.cloud.microsoft/onedrive/?auth=2
+CurrentTeam OneDrive: https://mnscu-my.sharepoint.com/:f:/r/personal/wu5067bl_go_minnstate_edu/Documents/Price%20Pirates?csf=1&web=1&e=Zo13y6
 
